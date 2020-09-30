@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b78d83d-0a2f-4587-b085-3acbd5da8637" name="Default Changelist" comment="" />
+    <list default="true" id="2b78d83d-0a2f-4587-b085-3acbd5da8637" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/logica/04-condições/4.10-exercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logica/04-condições/4.9-execercio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,8 +47,72 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.4.10-exercicio">
+    <configuration name="4.10-exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="logica-prog-com-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logica/04-condições" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/04-condições/4.10-exercicio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4.8-exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="logica-prog-com-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logica/04-condições" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/04-condições/4.8-exercicio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4.9-execercio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="logica-prog-com-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logica/04-condições" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/04-condições/4.9-execercio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="imprimemaiorvalor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="logica-prog-com-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -43,6 +136,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.10-exercicio" />
+        <item itemvalue="Python.4.9-execercio" />
+        <item itemvalue="Python.4.8-exercicio" />
         <item itemvalue="Python.imprimemaiorvalor" />
       </list>
     </recent_temporary>
@@ -58,22 +154,37 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1418" height="221" key="GridCell.Tab.0.bottom" timestamp="1601301271545">
+    <state width="1417" height="220" key="GridCell.Tab.0.bottom" timestamp="1601497125570">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1418" height="221" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1601301271545" />
-    <state width="1418" height="221" key="GridCell.Tab.0.center" timestamp="1601301271545">
+    <state width="1417" height="220" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1601497125570" />
+    <state width="1417" height="220" key="GridCell.Tab.0.center" timestamp="1601497125569">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1418" height="221" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1601301271545" />
-    <state width="1418" height="221" key="GridCell.Tab.0.left" timestamp="1601301271545">
+    <state width="1417" height="220" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1601497125569" />
+    <state width="1417" height="220" key="GridCell.Tab.0.left" timestamp="1601497125569">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1418" height="221" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1601301271545" />
-    <state width="1418" height="221" key="GridCell.Tab.0.right" timestamp="1601301271545">
+    <state width="1417" height="220" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1601497125569" />
+    <state width="1417" height="220" key="GridCell.Tab.0.right" timestamp="1601497125569">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1418" height="221" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1601301271545" />
+    <state width="1417" height="220" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1601497125569" />
+    <state x="251" y="66" key="SettingsEditor" timestamp="1601465896726">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="251" y="66" key="SettingsEditor/0.0.1440.870@0.0.1440.870" timestamp="1601465896726" />
   </component>
 </project>
