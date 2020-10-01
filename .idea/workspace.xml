@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b78d83d-0a2f-4587-b085-3acbd5da8637" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/logica/04-condições/4.10-exercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logica/04-condições/4.9-execercio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.10-exercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.10-listagem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.6-exercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.7-exercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.8-ezercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.9-listagem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +53,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.4.10-exercicio">
-    <configuration name="4.10-exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5.10-exercicio">
+    <configuration name="5.10-exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="logica-prog-com-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logica/04-condições" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logica/05-repetições" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/04-condições/4.10-exercicio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/05-repetições/5.10-exercicio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.8-exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.10-listagem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="logica-prog-com-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logica/04-condições" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logica/05-repetições" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/04-condições/4.8-exercicio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/05-repetições/5.10-listagem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.9-execercio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.6-exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="logica-prog-com-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logica/04-condições" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logica/05-repetições" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/04-condições/4.9-execercio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/05-repetições/5.6-exercicio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="imprimemaiorvalor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.7-exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="logica-prog-com-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +125,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logica/04-condições" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logica/05-repetições" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/04-condições/imprimemaiorvalor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/05-repetições/5.7-exercicio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5.8-ezercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="logica-prog-com-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logica/05-repetições" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/05-repetições/5.8-ezercicio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,10 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4.10-exercicio" />
-        <item itemvalue="Python.4.9-execercio" />
-        <item itemvalue="Python.4.8-exercicio" />
-        <item itemvalue="Python.imprimemaiorvalor" />
+        <item itemvalue="Python.5.10-exercicio" />
+        <item itemvalue="Python.5.10-listagem" />
+        <item itemvalue="Python.5.8-ezercicio" />
+        <item itemvalue="Python.5.7-exercicio" />
+        <item itemvalue="Python.5.6-exercicio" />
       </list>
     </recent_temporary>
   </component>
@@ -164,24 +190,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1417" height="220" key="GridCell.Tab.0.bottom" timestamp="1601497125570">
+    <state width="1417" height="220" key="GridCell.Tab.0.bottom" timestamp="1601583408132">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1417" height="220" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1601497125570" />
-    <state width="1417" height="220" key="GridCell.Tab.0.center" timestamp="1601497125569">
+    <state width="1417" height="220" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1601583408132" />
+    <state width="1417" height="220" key="GridCell.Tab.0.center" timestamp="1601583408132">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1417" height="220" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1601497125569" />
-    <state width="1417" height="220" key="GridCell.Tab.0.left" timestamp="1601497125569">
+    <state width="1417" height="220" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1601583408132" />
+    <state width="1417" height="220" key="GridCell.Tab.0.left" timestamp="1601583408132">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1417" height="220" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1601497125569" />
-    <state width="1417" height="220" key="GridCell.Tab.0.right" timestamp="1601497125569">
+    <state width="1417" height="220" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1601583408132" />
+    <state width="1417" height="220" key="GridCell.Tab.0.right" timestamp="1601583408132">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1417" height="220" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1601497125569" />
+    <state width="1417" height="220" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1601583408132" />
     <state x="251" y="66" key="SettingsEditor" timestamp="1601465896726">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
