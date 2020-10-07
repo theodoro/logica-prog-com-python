@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b78d83d-0a2f-4587-b085-3acbd5da8637" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/logica/04-condições/jogo-adivinha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.11-exercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.11-listagem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.12-exercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.12-listagem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,10 +49,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.jogo-adivinha">
-    <configuration name="5.10-exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5.12-exercicio">
+    <configuration name="5.11-exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="logica-prog-com-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/05-repetições/5.10-exercicio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/05-repetições/5.11-exercicio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.10-listagem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.11-listagem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="logica-prog-com-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/05-repetições/5.10-listagem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/05-repetições/5.11-listagem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.7-exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.12-exercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="logica-prog-com-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/05-repetições/5.7-exercicio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/05-repetições/5.12-exercicio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.8-ezercicio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.12-listagem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="logica-prog-com-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/05-repetições/5.8-ezercicio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/05-repetições/5.12-listagem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5.12-exercicio" />
+        <item itemvalue="Python.5.11-exercicio" />
+        <item itemvalue="Python.5.12-listagem" />
+        <item itemvalue="Python.5.11-listagem" />
         <item itemvalue="Python.jogo-adivinha" />
-        <item itemvalue="Python.5.10-exercicio" />
-        <item itemvalue="Python.5.10-listagem" />
-        <item itemvalue="Python.5.8-ezercicio" />
-        <item itemvalue="Python.5.7-exercicio" />
       </list>
     </recent_temporary>
   </component>
@@ -188,29 +191,34 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1890" height="258" key="GridCell.Tab.0.bottom" timestamp="1601813182207">
+    <state x="592" y="300" width="726" height="445" key="#Notifications" timestamp="1602062621200">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="592" y="300" width="726" height="445" key="#Notifications/0.0.1920.1044@0.0.1920.1044" timestamp="1602062621200" />
+    <state width="930" height="257" key="GridCell.Tab.0.bottom" timestamp="1602064238417">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state width="1417" height="220" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1601583408132" />
-    <state width="1890" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1601813182207" />
-    <state width="1890" height="258" key="GridCell.Tab.0.center" timestamp="1601813182206">
+    <state width="930" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1602064238417" />
+    <state width="930" height="257" key="GridCell.Tab.0.center" timestamp="1602064238416">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state width="1417" height="220" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1601583408132" />
-    <state width="1890" height="258" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1601813182206" />
-    <state width="1890" height="258" key="GridCell.Tab.0.left" timestamp="1601813182206">
+    <state width="930" height="257" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1602064238416" />
+    <state width="930" height="257" key="GridCell.Tab.0.left" timestamp="1602064238416">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state width="1417" height="220" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1601583408132" />
-    <state width="1890" height="258" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1601813182206" />
-    <state width="1890" height="258" key="GridCell.Tab.0.right" timestamp="1601813182206">
+    <state width="930" height="257" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1602064238416" />
+    <state width="930" height="257" key="GridCell.Tab.0.right" timestamp="1602064238416">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state width="1417" height="220" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1601583408132" />
-    <state width="1890" height="258" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1601813182206" />
-    <state x="251" y="66" key="SettingsEditor" timestamp="1601465896726">
-      <screen x="0" y="0" width="1440" height="870" />
+    <state width="930" height="257" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1602064238416" />
+    <state x="335" y="79" width="1271" height="906" key="SettingsEditor" timestamp="1602062735215">
+      <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="251" y="66" key="SettingsEditor/0.0.1440.870@0.0.1440.870" timestamp="1601465896726" />
+    <state x="335" y="79" width="1271" height="906" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1602062735215" />
   </component>
 </project>
