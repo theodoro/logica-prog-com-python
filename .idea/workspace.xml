@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b78d83d-0a2f-4587-b085-3acbd5da8637" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.13-listagem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.14-exercicio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.14-listagem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.15-exercicio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logica/05-repetições/5.15-listagem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +48,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.5.14-listagem">
+  <component name="RunManager" selected="Python.5.15-listagem">
     <configuration name="5.13-listagem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="logica-prog-com-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="olimpiadas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.15-listagem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="logica-prog-com-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logica/00-outros" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logica/05-repetições" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/00-outros/olimpiadas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logica/05-repetições/5.15-listagem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5.15-listagem" />
         <item itemvalue="Python.5.14-listagem" />
         <item itemvalue="Python.5.15-exercicio" />
         <item itemvalue="Python.5.14-exercicio" />
         <item itemvalue="Python.5.13-listagem" />
-        <item itemvalue="Python.olimpiadas" />
       </list>
     </recent_temporary>
   </component>
@@ -195,26 +192,26 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="592" y="300" width="726" height="445" key="#Notifications/0.0.1920.1044@0.0.1920.1044" timestamp="1602062621200" />
-    <state width="930" height="257" key="GridCell.Tab.0.bottom" timestamp="1602501850591">
+    <state width="930" height="257" key="GridCell.Tab.0.bottom" timestamp="1602504462989">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state width="1417" height="220" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1601583408132" />
-    <state width="930" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1602501850591" />
-    <state width="930" height="257" key="GridCell.Tab.0.center" timestamp="1602501850589">
+    <state width="930" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1602504462989" />
+    <state width="930" height="257" key="GridCell.Tab.0.center" timestamp="1602504462988">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state width="1417" height="220" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1601583408132" />
-    <state width="930" height="257" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1602501850589" />
-    <state width="930" height="257" key="GridCell.Tab.0.left" timestamp="1602501850588">
+    <state width="930" height="257" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1602504462988" />
+    <state width="930" height="257" key="GridCell.Tab.0.left" timestamp="1602504462987">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state width="1417" height="220" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1601583408132" />
-    <state width="930" height="257" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1602501850588" />
-    <state width="930" height="257" key="GridCell.Tab.0.right" timestamp="1602501850590">
+    <state width="930" height="257" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1602504462987" />
+    <state width="930" height="257" key="GridCell.Tab.0.right" timestamp="1602504462988">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state width="1417" height="220" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1601583408132" />
-    <state width="930" height="257" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1602501850590" />
+    <state width="930" height="257" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1602504462988" />
     <state x="335" y="79" width="1271" height="906" key="SettingsEditor" timestamp="1602062735215">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
